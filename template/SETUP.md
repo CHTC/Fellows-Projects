@@ -1,14 +1,12 @@
-# Repository Preparation/Use
+# Repository Setup and Use
 
-## Before Fellowship Start (Mentors/Maintainers of repo)
+## Before Fellowship Start (Mentors/Maintainers of repository)
 
-1. Create new subdirectory named with the year of the fellowship under
-   *projects/*.
-2. Copy *projects/TEMPLATE.md* into newly create year subdirectory as
-   *README.md*and update accordingly with planned fellow & project
-   information.
-3. Create new subdirectory named with all fellows working on the project
-   under *projects/<year>/*.
+1. Update the *README.md* with the appropriate year.
+2. For each fellow:
+   1. Update the *README.md* with the appropriate project information.
+   2. Create a subdirectory in the root of the repository for the project.
+      Note: This directory should use the github account name of the fellow.
 
 ## Fellowship Start (Fellows)
 
@@ -16,7 +14,7 @@
 2. Have fellows make pull request updating the following:
    1. Create *README.md* in specific fellow directory containing
       the project proposal, design, details, and reasoning.
-   2. (Optional) Update the current years *README.md* with
+   2. (Optional) Update the repository root *README.md* with
       any personal information/links they desire.
 
 ## Use of Repository (Fellows)
@@ -30,5 +28,5 @@
 
 ## Fellowship End (Mentors/Maintainers of repo)
 
-1. Update the year *README.md* to link the final report for each
-   listed project.
+1. Update the *README.md* a link to the final report for each project.
+
