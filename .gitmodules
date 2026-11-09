@@ -2,3 +2,6 @@
 	path = projects/2026
 	url = https://github.com/CHTC/2026-Fellows-Projects.git
 	branch = main
+[submodule "projects/2027"]
+	path = projects/2027
+	url = https://github.com/CHTC/2027-Fellows-Projects.git
